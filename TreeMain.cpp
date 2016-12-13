@@ -50,7 +50,6 @@ return node;
 }
 
 int height(TreeNode<int> * root){
-/// this base case if for those cases where tree has not been created
  if(root==NULL){
 	return 0;
  }
